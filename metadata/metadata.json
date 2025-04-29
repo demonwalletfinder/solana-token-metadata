@@ -1,1 +1,18 @@
 
+  {
+    "name": "Trump for Fun",
+    "symbol": "TRUM",
+    "description": "Your custom token on Solana Trump for Fun",
+    "image": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
