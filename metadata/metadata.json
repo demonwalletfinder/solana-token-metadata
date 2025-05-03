@@ -1,18 +1,24 @@
-
-  {
-    "name": "Trump for Fun",
-    "symbol": "TFUN",
-    "description": "Your custom token on Solana Trump for Fun",
-    "image": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
-    "attributes": [],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image"
+{
+  "name": "Trump for Fun",
+  "symbol": "TFUN",
+  "description": "Your custom token on Solana Trump for Fun",
+  "image": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "E1xsyhLcmzhhQyzTxLGSrQheGStNCNNourjxaURkbCvW",
+      "verified": true,
+      "share": 100
     }
-  }
-  
+  ]
+}
