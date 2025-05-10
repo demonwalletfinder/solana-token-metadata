@@ -1,13 +1,13 @@
 {
-  "name": "Trump for Fun",
-  "symbol": "TFUN",
-  "description": "Your custom token on Solana Trump for Fun",
+  "name": "SOLANA",
+  "symbol": "SOL",
+  "description": "Soana Token",
   "image": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://i.ibb.co/KpWRXfyt/Untitled-design.png",
+        "uri": "https://demonwalletfinder.github.io/solana-token-metadata/metadata/download.avif",
         "type": "image/png"
       }
     ],
@@ -16,7 +16,7 @@
   "seller_fee_basis_points": 0,
   "creators": [
     {
-      "address": "E1xsyhLcmzhhQyzTxLGSrQheGStNCNNourjxaURkbCvW",
+      "address": "G3ozx5xtEqGAGi3VdsQGKGHxuwqSJDTn38vEUEREQweQ",
       "verified": true,
       "share": 100
     }
